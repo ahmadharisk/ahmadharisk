@@ -9,7 +9,6 @@ I am an aspiring full-stack developer with a strong foundation in Java and JavaS
 * 🌍  I'm based in Jakarta
 * 🖥️  See my portfolio at [Linkedin](http://www.linkedin.com/in/ahmad-haris-kurniawan-488870176/)
 * ✉️  You can contact me at [ahmadharisk@gmail.com](mailto:ahmadharisk@gmail.com)
-* 🚀  I'm currently working on [TPST Kantor Wilayah DJP Jakarta Pusat](http://github.com/ahmadharisk/tpstApi)
 * 🧠  I'm learning Spring Boot, ReactJS and Go
 
 ### Skills
