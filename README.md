@@ -27,7 +27,7 @@ I am an aspiring full-stack developer with a strong foundation in Java and JavaS
 
 <div align="center">
   <a href="http://www.github.com/ahmadharisk">
-    <img height=150 src="https://github-readme-stats.vercel.app/api?username=ahmadharisk&show_icons=true&hide=&count_private=true&show_icons=true&theme=buefy" alt="ahmadharisk's GitHub stats" />
+    <img height=150 src="https://github-readme-stats.vercel.app/api?username=ahmadharisk&show_icons=true&count_private=true&theme=buefy&commits_year=2025" alt="ahmadharisk's GitHub stats" />
   </a>
   <a href="https://github.com/ahmadharisk">
     <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadharisk&langs_count=6&locale=en&custom_title=Top%20%Languages&theme=buefy&layout=compact&card_width=320" alt="Top Languages" />
